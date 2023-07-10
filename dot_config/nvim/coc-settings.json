@@ -1,0 +1,12 @@
+{
+    "languageserver": {
+        "godot": {
+            "host": "127.0.0.1",
+            "filetypes": ["gd", "gdscript3"],
+            "port": 6008
+        }
+    },
+    "Lua.telemetry.enable": false,
+    "svelte.enable-ts-plugin": true
+
+}
